@@ -132,6 +132,14 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td>Has 3 bike sytles available(Motor Goat, Power Goat and Billy Goat)</td>
     </tr>
     <tr>
+        <td>$3,399+(60V)/$2,899(52V)</td>
+        <td>Aniioki A8 Pro Max Dual Motor</td>
+        <td>60V 70Ah or 80Ah, 52V 60Ah</td>
+        <td>45mph</td>
+        <td>Dual Geared Hub</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>$3,499</td>
         <td>Wired Predator</td>
         <td>Dual batteries(60V 15Ah + 20Ah = 35Ah)</td>
@@ -144,14 +152,6 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td>E-Cells AWD MONSTAR</td>
         <td>Dual batteries(60V 15Ah + 25Ah = 40Ah)</td>
         <td>49Mph-50Mph</td>
-        <td>Dual Geared Hub</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>$3,399+(60V)/$2,899(52V)</td>
-        <td>Aniioki A8 Pro Max Dual Motor</td>
-        <td>60V 70Ah or 80Ah, 52V 60Ah</td>
-        <td>45mph</td>
         <td>Dual Geared Hub</td>
         <td></td>
     </tr>
