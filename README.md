@@ -79,4 +79,76 @@ Let's compare two controllers with different voltage ratings but the same curren
 - **Motor choice** depends on use case:  
   - **Geared hubs** = Best for torque and lighter builds.  
   - **Direct-drive hubs** = Best for smooth, high-speed riding and regen braking.  
-  - **Mid-drive** = Best for efficiency and steep terrain.  
+  - **Mid-drive** = Best for efficiency and steep terrain.
+
+# **Available Bike By Price($1,000-$3.500):**
+<table>
+    <tr>
+        <th>Price</th>
+        <th>Name</th>
+        <th>Battery</th>
+        <th>Top Speed</th>
+        <th>Hubmotor Configuration</th>
+        <th>Note</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Wired Freedom</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>$1,999</td>
+        <td>Wired Freedom or Cruiser</td>
+        <td>Dual batteries(60V 15Ah + 20Ah = 35Ah)</td>
+        <td>40Mph</td>
+        <td>Single Rear Geared Hub</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>$2,699+</td>
+        <td>Goat Power Bikes</td>
+        <td>60V 20Ah-75Ah with options(dual batteries)</td>
+        <td>44Mph-50Mph</td>
+        <td>Direct-Drive</td>
+        <td>Has 3 bike sytles available(Motor Goat, Power Goat and Billy Goat)</td>
+    </tr>
+    <tr>
+        <td>$3,499</td>
+        <td>Wired Predator</td>
+        <td>60V 20Ah-75Ah with options(dual batteries)</td>
+        <td>44Mph</td>
+        <td>Dual Geared Hub</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>$2,699+</td>
+        <td>E-Cells AWD MONSTAR</td>
+        <td>Dual batteries(60V 15Ah + 25Ah = 40Ah)</td>
+        <td>49Mph-50Mph</td>
+        <td>Dual Geared Hub</td>
+        <td></td>
+    </tr>
+
+    
+
+</table>
+
