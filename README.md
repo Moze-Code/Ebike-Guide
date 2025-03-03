@@ -134,7 +134,7 @@ Let's compare two controllers with different voltage ratings but the same curren
     <tr>
         <td>$3,499</td>
         <td>Wired Predator</td>
-        <td>60V 20Ah-75Ah with options(dual batteries)</td>
+        <td>Dual batteries(60V 15Ah + 20Ah = 35Ah)</td>
         <td>44Mph</td>
         <td>Dual Geared Hub</td>
         <td></td>
