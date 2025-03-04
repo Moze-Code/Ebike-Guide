@@ -136,7 +136,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td><a href="https://aniioki.com/products/a8-pro-max-dual-motor-ebike">Aniioki A8 Pro Max Dual Motor</a></td>
         <td>60V 70Ah or 80Ah, 52V 60Ah</td>
         <td>45mph</td>
-        <td>Dual Direct Drive Hub</td>
+        <td>Dual Direct Drive hub</td>
         <td>The controller may not support regen, 20 inch tires</td>
     </tr>
     <tr>
