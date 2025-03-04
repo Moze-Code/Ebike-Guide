@@ -128,7 +128,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td><a href="https://www.goatpowerbikes.com/collections/all-products">Goat Power Bikes</a></td>
         <td>60V 20Ah-75Ah with options(dual batteries)</td>
         <td>44Mph-50Mph</td>
-        <td>Direct-Drive</td>
+        <td>Direct-Drive hub</td>
         <td>Has 3 bike sytles available(Motor Goat, Power Goat and Billy Goat), 20 inch tires</td>
     </tr>
     <tr>
@@ -136,7 +136,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td><a href="https://aniioki.com/products/a8-pro-max-dual-motor-ebike">Aniioki A8 Pro Max Dual Motor</a></td>
         <td>60V 70Ah or 80Ah, 52V 60Ah</td>
         <td>45mph</td>
-        <td>Dual Direct Hub</td>
+        <td>Dual Direct Drive Hub</td>
         <td>The controller may not support regen, 20 inch tires</td>
     </tr>
     <tr>
@@ -144,7 +144,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td><a href="https://wiredebikes.com/products/wired-predator">Wired Predator</a></td>
         <td>Dual batteries(60V 15Ah + 20Ah = 35Ah)</td>
         <td>44Mph</td>
-        <td>Dual Geared Hub</td>
+        <td>Dual Geared hub</td>
         <td>26 inch tires</td>
     </tr>
     <tr>
@@ -152,7 +152,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td><a href="https://ecells.com/product/ecells-awd-monstar-3000w-60v-80-amp-e-bike/">E-Cells AWD MONSTAR</a></td>
         <td>Dual batteries(60V 15Ah + 25Ah = 40Ah)</td>
         <td>49Mph-50Mph</td>
-        <td>Dual Geared Hub</td>
+        <td>Dual Geared hub</td>
         <td>26inch tires</td>
     </tr>
 
