@@ -81,7 +81,7 @@ Let's compare two controllers with different voltage ratings but the same curren
   - **Direct-drive hubs** = Best for smooth, high-speed riding and regen braking.  
   - **Mid-drive** = Best for efficiency and steep terrain.
 
-# **Available Bike By Price($1,000-$3.500):**
+# **Available Bike By Price($1,000-$3,500):**
 <table>
     <tr>
         <th>Price</th>
