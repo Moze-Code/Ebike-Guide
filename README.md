@@ -112,7 +112,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td><a href="https://wiredebikes.com/collections/wired-electric-bicycles">Wired Freedom or Cruiser</a></td>
         <td>Dual batteries(60V 15Ah + 20Ah = 35Ah)</td>
         <td>40Mph</td>
-        <td>Single Rear Geared Hub</td>
+        <td>Single Rear Geared hub</td>
         <td>26 inch tires</td>
     </tr>
     <tr>
