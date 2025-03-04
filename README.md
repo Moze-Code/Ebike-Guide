@@ -129,7 +129,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td>60V 20Ah-75Ah with options(dual batteries)</td>
         <td>44Mph-50Mph</td>
         <td>Direct-Drive</td>
-        <td>Has 3 bike sytles available(Motor Goat, Power Goat and Billy Goat, 20 inch tires)</td>
+        <td>Has 3 bike sytles available(Motor Goat, Power Goat and Billy Goat), 20 inch tires</td>
     </tr>
     <tr>
         <td>$3,399+(60V)/$2,899(52V)</td>
