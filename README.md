@@ -136,8 +136,8 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td>Aniioki A8 Pro Max Dual Motor</td>
         <td>60V 70Ah or 80Ah, 52V 60Ah</td>
         <td>45mph</td>
-        <td>Dual Geared Hub</td>
-        <td></td>
+        <td>Dual Direct Hub</td>
+        <td>The controller may not support regen</td>
     </tr>
     <tr>
         <td>$3,499</td>
