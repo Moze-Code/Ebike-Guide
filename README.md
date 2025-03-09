@@ -127,7 +127,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td>$2,699+</td>
         <td><a href="https://www.goatpowerbikes.com/collections/all-products">Goat Power Bikes</a></td>
         <td>60V 20Ah-75Ah with options(dual batteries)</td>
-        <td>44Mph-50Mph</td>
+        <td>44mph-50mph</td>
         <td>Direct-Drive hub</td>
         <td>Has 3 bike sytles available(Motor Goat, Power Goat and Billy Goat), 20 inch tires</td>
     </tr>
