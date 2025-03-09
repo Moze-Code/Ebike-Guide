@@ -111,7 +111,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td>$1,999</td>
         <td><a href="https://wiredebikes.com/collections/wired-electric-bicycles">Wired Freedom or Cruiser</a></td>
         <td>Dual batteries(60V 15Ah + 20Ah = 35Ah)</td>
-        <td>40Mph</td>
+        <td>40mph</td>
         <td>Single Rear Geared hub</td>
         <td>26 inch tires</td>
     </tr>
@@ -143,7 +143,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td>$3,499</td>
         <td><a href="https://wiredebikes.com/products/wired-predator">Wired Predator</a></td>
         <td>Dual batteries(72V 15Ah + 20Ah = 35Ah)</td>
-        <td>55Mph</td>
+        <td>55mph</td>
         <td>Dual Geared hub</td>
         <td>Now 72V, 26 inch tires</td>
     </tr>
@@ -151,7 +151,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td>$3,595</td>
         <td><a href="https://ecells.com/product/ecells-awd-monstar-3000w-60v-80-amp-e-bike/">E-Cells AWD MONSTAR</a></td>
         <td>Dual batteries(60V 15Ah + 25Ah = 40Ah)</td>
-        <td>49Mph-50Mph</td>
+        <td>49mph-50mph</td>
         <td>Dual Geared hub</td>
         <td>26inch tires</td>
     </tr>
