@@ -117,7 +117,7 @@ Let's compare two controllers with different voltage ratings but the same curren
     </tr>
     <tr>
         <td>$2,599</td>
-        <td>Wired Warrior/Scout</td>
+        <td><a href="https://wiredebikes.com/pages/ebike-collection">Wired Warrior/Scout</a></td>
         <td>Dual batteries(72V 15Ah + 20Ah = 35Ah)</td>
         <td>45mph-50mph</td>
         <td>Geared hub</td>
