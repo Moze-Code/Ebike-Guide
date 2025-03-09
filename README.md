@@ -116,12 +116,12 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td>26 inch tires</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>$2,599</td>
+        <td>Wired Warrior/Scout</td>
+        <td>Dual batteries(72V 15Ah + 20Ah = 35Ah)</td>
+        <td>45mph-50mph</td>
+        <td>Geared hub</td>
+        <td>26 inch tires</td>
     </tr>
     <tr>
         <td>$2,699+</td>
@@ -142,10 +142,10 @@ Let's compare two controllers with different voltage ratings but the same curren
     <tr>
         <td>$3,499</td>
         <td><a href="https://wiredebikes.com/products/wired-predator">Wired Predator</a></td>
-        <td>Dual batteries(60V 15Ah + 20Ah = 35Ah)</td>
-        <td>44Mph</td>
+        <td>Dual batteries(72V 15Ah + 20Ah = 35Ah)</td>
+        <td>55Mph</td>
         <td>Dual Geared hub</td>
-        <td>26 inch tires</td>
+        <td>Now 72V, 26 inch tires</td>
     </tr>
     <tr>
         <td>$3,595</td>
