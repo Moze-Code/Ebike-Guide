@@ -112,7 +112,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td><a href="https://wiredebikes.com/collections/wired-electric-bicycles">Wired Freedom or Cruiser</a></td>
         <td>Dual batteries(60V 15Ah + 20Ah = 35Ah)</td>
         <td>40mph</td>
-        <td>Single Rear Geared hub</td>
+        <td>Geared hub(Rear)</td>
         <td>26 inch tires</td>
     </tr>
     <tr>
@@ -120,7 +120,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td><a href="https://wiredebikes.com/pages/ebike-collection">Wired Warrior or Scout</a></td>
         <td>Dual batteries(72V 15Ah + 20Ah = 35Ah)</td>
         <td>45mph-50mph</td>
-        <td>Geared hub</td>
+        <td>Geared hub(Rear)</td>
         <td>26 inch tires</td>
     </tr>
     <tr>
@@ -128,7 +128,7 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td><a href="https://www.goatpowerbikes.com/collections/all-products">Goat Power Bikes</a></td>
         <td>60V 20Ah-75Ah with options(dual batteries)</td>
         <td>44mph-50mph</td>
-        <td>Direct-Drive hub</td>
+        <td>Direct-Drive hub(Rear)</td>
         <td>Has 3 bike sytles available(Motor Goat, Power Goat and Billy Goat), 20 inch tires</td>
     </tr>
     <tr>
