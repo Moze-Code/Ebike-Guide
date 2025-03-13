@@ -100,6 +100,14 @@ Let's compare two controllers with different voltage ratings but the same curren
         <td></td>
     </tr>
     <tr>
+        <td>$1,399</td>
+        <td><a href="https://philodobikes.com/collections/philodo-60v-electric-bike-for-sale/products/philodo-h7-ultra-60v-dual-motor-electric-bike?variant=46124438946030">PHILODO Forester</a></td>
+        <td>Single battery(60V 26Ah)</td>
+        <td>40mph-45mph</td>
+        <td>Dual Geared hub</td>
+        <td>26 inch tires, no rear suspension</td>
+    </tr>
+    <tr>
         <td>$1,499</td>
         <td><a href="https://philodobikes.com/collections/philodo-60v-electric-bike-for-sale/products/philodo-forester-60v-dual-motor-electric-bike-full-suspension?variant=46124321964270">PHILODO Forester</a></td>
         <td>Single battery(60V 26Ah)</td>
