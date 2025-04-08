@@ -89,12 +89,12 @@
         <td>Now 72V, 26 inch tires</td>
     </tr>
     <tr>
-        <td>$3,595</td>
+        <td>$4,495-$4,795</td>
         <td><a href="https://ecells.com/product/ecells-awd-monstar-3000w-60v-80-amp-e-bike/">E-Cells AWD MONSTAR</a></td>
         <td>Dual batteries(60V 15Ah + 25Ah = 40Ah)</td>
         <td>49mph-50mph</td>
         <td>Dual Geared hub</td>
-        <td>26inch tires</td>
+        <td>26inch tires, was $3,595 but increased becuase of tariffs</td>
     </tr>
 
     
