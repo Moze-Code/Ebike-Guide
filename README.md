@@ -94,7 +94,7 @@
         <td>Dual batteries(60V 15Ah + 25Ah = 40Ah)</td>
         <td>49mph-50mph</td>
         <td>Dual Geared hub</td>
-        <td>26inch tires, was $3,595 but increased becuase of tariffs</td>
+        <td>26inch tires, was $3,595 but increased because of tariffs</td>
     </tr>
 
     
