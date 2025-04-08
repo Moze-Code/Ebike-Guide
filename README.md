@@ -1,3 +1,106 @@
+## **Available Bike By Price($1,000-$3,500):**
+<table>
+    <tr>
+        <th>Price</th>
+        <th>Name</th>
+        <th>Battery</th>
+        <th>Top Speed</th>
+        <th>Hubmotor Configuration</th>
+        <th>Note</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>$1,399</td>
+        <td><a href="https://philodobikes.com/collections/philodo-60v-electric-bike-for-sale/products/philodo-h7-ultra-60v-dual-motor-electric-bike?variant=46124438946030">PHILODO H7 Ultra</a></td>
+        <td>Single battery(60V 26Ah)</td>
+        <td>40mph-45mph</td>
+        <td>Dual Geared hub</td>
+        <td>26 inch tires, no rear suspension</td>
+    </tr>
+    <tr>
+        <td>$1,499</td>
+        <td><a href="https://philodobikes.com/collections/philodo-60v-electric-bike-for-sale/products/philodo-forester-60v-dual-motor-electric-bike-full-suspension?variant=46124321964270">PHILODO Forester</a></td>
+        <td>Single battery(60V 26Ah)</td>
+        <td>40mph-45mph</td>
+        <td>Dual Geared hub</td>
+        <td>26 inch tires</td>
+    </tr>
+    <tr>
+        <td>$1,599</td>
+        <td><a href="https://philodobikes.com/collections/philodo-60v-electric-bike-for-sale/products/philodo-falcon-dual-motor-electric-bike-full-suspension?variant=46243759456494">PHILODO Falcon</a></td>
+        <td>Single battery(60V 32Ah)</td>
+        <td>40mph-45mph</td>
+        <td>Dual Geared hub</td>
+        <td>26 inch tires</td>
+    </tr>
+    <tr>
+        <td>$1,999</td>
+        <td><a href="https://wiredebikes.com/collections/wired-electric-bicycles">Wired Freedom or Cruiser</a></td>
+        <td>Dual batteries(60V 15Ah + 20Ah = 35Ah)</td>
+        <td>40mph</td>
+        <td>Geared hub(Rear)</td>
+        <td>26 inch tires</td>
+    </tr>
+    <tr>
+        <td>$2,599</td>
+        <td><a href="https://wiredebikes.com/pages/ebike-collection">Wired Warrior or Scout</a></td>
+        <td>Dual batteries(72V 15Ah + 20Ah = 35Ah)</td>
+        <td>45mph-50mph</td>
+        <td>Geared hub(Rear)</td>
+        <td>26 inch tires</td>
+    </tr>
+    <tr>
+        <td>$2,699+</td>
+        <td><a href="https://www.goatpowerbikes.com/collections/all-products">Goat Power Bikes</a></td>
+        <td>60V 20Ah-75Ah with options(dual batteries)</td>
+        <td>44mph-50mph</td>
+        <td>Direct-Drive hub(Rear)</td>
+        <td>Has 3 bike sytles available(Motor Goat, Power Goat and Billy Goat), 20 inch tires</td>
+    </tr>
+    <tr>
+        <td>$2,799</td>
+        <td><a href="https://www.furious-ebikes.com/road-warrior-ultimate-awd">Road Warrior Ultimate AWD</a></td>
+        <td>Dual batteries(60V 15Ah + 20Ah = 35Ah)</td>
+        <td>35mph+</td>
+        <td>Dual Geared hub</td>
+        <td>You can check out there other bikes aswell</td>
+    </tr>
+    <tr>
+        <td>$3,399+(60V)/$2,899(52V)</td>
+        <td><a href="https://aniioki.com/products/a8-pro-max-dual-motor-ebike">Aniioki A8 Pro Max Dual Motor</a></td>
+        <td>60V 70Ah or 80Ah, 52V 60Ah</td>
+        <td>45mph</td>
+        <td>Dual Direct Drive hub</td>
+        <td>The controller may not support regen, 20 inch tires</td>
+    </tr>
+    <tr>
+        <td>$3,499</td>
+        <td><a href="https://wiredebikes.com/products/wired-predator">Wired Predator</a></td>
+        <td>Dual batteries(72V 15Ah + 20Ah = 35Ah)</td>
+        <td>55mph</td>
+        <td>Dual Geared hub</td>
+        <td>Now 72V, 26 inch tires</td>
+    </tr>
+    <tr>
+        <td>$3,595</td>
+        <td><a href="https://ecells.com/product/ecells-awd-monstar-3000w-60v-80-amp-e-bike/">E-Cells AWD MONSTAR</a></td>
+        <td>Dual batteries(60V 15Ah + 25Ah = 40Ah)</td>
+        <td>49mph-50mph</td>
+        <td>Dual Geared hub</td>
+        <td>26inch tires</td>
+    </tr>
+
+    
+
+</table>
+
 # **E-Bike Main Components**  
 
 ## **1. Battery**  
@@ -80,91 +183,3 @@ Let's compare two controllers with different voltage ratings but the same curren
   - **Geared hubs** = Best for torque and lighter builds.  
   - **Direct-drive hubs** = Best for smooth, high-speed riding and regen braking.  
   - **Mid-drive** = Best for efficiency and steep terrain.
-
-# **Available Bike By Price($1,000-$3,500):**
-<table>
-    <tr>
-        <th>Price</th>
-        <th>Name</th>
-        <th>Battery</th>
-        <th>Top Speed</th>
-        <th>Hubmotor Configuration</th>
-        <th>Note</th>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>$1,399</td>
-        <td><a href="https://philodobikes.com/collections/philodo-60v-electric-bike-for-sale/products/philodo-h7-ultra-60v-dual-motor-electric-bike?variant=46124438946030">PHILODO H7 Ultra</a></td>
-        <td>Single battery(60V 26Ah)</td>
-        <td>40mph-45mph</td>
-        <td>Dual Geared hub</td>
-        <td>26 inch tires, no rear suspension</td>
-    </tr>
-    <tr>
-        <td>$1,499</td>
-        <td><a href="https://philodobikes.com/collections/philodo-60v-electric-bike-for-sale/products/philodo-forester-60v-dual-motor-electric-bike-full-suspension?variant=46124321964270">PHILODO Forester</a></td>
-        <td>Single battery(60V 26Ah)</td>
-        <td>40mph-45mph</td>
-        <td>Dual Geared hub</td>
-        <td>26 inch tires</td>
-    </tr>
-    <tr>
-        <td>$1,999</td>
-        <td><a href="https://wiredebikes.com/collections/wired-electric-bicycles">Wired Freedom or Cruiser</a></td>
-        <td>Dual batteries(60V 15Ah + 20Ah = 35Ah)</td>
-        <td>40mph</td>
-        <td>Geared hub(Rear)</td>
-        <td>26 inch tires</td>
-    </tr>
-    <tr>
-        <td>$2,599</td>
-        <td><a href="https://wiredebikes.com/pages/ebike-collection">Wired Warrior or Scout</a></td>
-        <td>Dual batteries(72V 15Ah + 20Ah = 35Ah)</td>
-        <td>45mph-50mph</td>
-        <td>Geared hub(Rear)</td>
-        <td>26 inch tires</td>
-    </tr>
-    <tr>
-        <td>$2,699+</td>
-        <td><a href="https://www.goatpowerbikes.com/collections/all-products">Goat Power Bikes</a></td>
-        <td>60V 20Ah-75Ah with options(dual batteries)</td>
-        <td>44mph-50mph</td>
-        <td>Direct-Drive hub(Rear)</td>
-        <td>Has 3 bike sytles available(Motor Goat, Power Goat and Billy Goat), 20 inch tires</td>
-    </tr>
-    <tr>
-        <td>$3,399+(60V)/$2,899(52V)</td>
-        <td><a href="https://aniioki.com/products/a8-pro-max-dual-motor-ebike">Aniioki A8 Pro Max Dual Motor</a></td>
-        <td>60V 70Ah or 80Ah, 52V 60Ah</td>
-        <td>45mph</td>
-        <td>Dual Direct Drive hub</td>
-        <td>The controller may not support regen, 20 inch tires</td>
-    </tr>
-    <tr>
-        <td>$3,499</td>
-        <td><a href="https://wiredebikes.com/products/wired-predator">Wired Predator</a></td>
-        <td>Dual batteries(72V 15Ah + 20Ah = 35Ah)</td>
-        <td>55mph</td>
-        <td>Dual Geared hub</td>
-        <td>Now 72V, 26 inch tires</td>
-    </tr>
-    <tr>
-        <td>$3,595</td>
-        <td><a href="https://ecells.com/product/ecells-awd-monstar-3000w-60v-80-amp-e-bike/">E-Cells AWD MONSTAR</a></td>
-        <td>Dual batteries(60V 15Ah + 25Ah = 40Ah)</td>
-        <td>49mph-50mph</td>
-        <td>Dual Geared hub</td>
-        <td>26inch tires</td>
-    </tr>
-
-    
-
-</table>
-
