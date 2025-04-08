@@ -57,7 +57,7 @@
         <td>26 inch tires</td>
     </tr>
     <tr>
-        <td>$2,699+</td>
+        <td>$2,749+</td>
         <td><a href="https://www.goatpowerbikes.com/collections/all-products">Goat Power Bikes</a></td>
         <td>60V 20Ah-75Ah with options(dual batteries)</td>
         <td>44mph-50mph</td>
